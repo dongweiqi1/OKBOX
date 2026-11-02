@@ -27,6 +27,10 @@
     {
       "url": "https://raw.githubusercontent.com/shenjh2023/2024tv/refs/heads/main/S2671.txt",
       "name": "7号线路"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cxelva/xpg/refs/heads/main/lib/a.json",
+      "name": "8号线路"
     }
   ]
 }
