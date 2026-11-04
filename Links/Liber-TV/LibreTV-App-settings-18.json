@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "麻豆视频",
+      "url": "https:\/\/91md.me\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "155资源",
+      "url": "https:\/\/155api.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "玉兔资源",
+      "url": "https:\/\/apiyutu.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "番号资源",
+      "url": "http:\/\/fhapi9.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "色逼资源",
+      "url": "https:\/\/apilsbzy1.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "小鸡资源",
+      "url": "https:\/\/api.xiaojizy.live\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "黄色仓库",
+      "url": "https:\/\/hsckzy.xyz\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "奶子资源",
+      "url": "https:\/\/apidanaizi.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "jkun资源",
+      "url": "https:\/\/jkunzyapi.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "乐播资源",
+      "url": "https:\/\/lbapi9.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "奶香资源",
+      "url": "https:\/\/Naixxzy.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "森林资源",
+      "url": "https:\/\/beiyong.slapibf.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "辣椒资源",
+      "url": "https:\/\/apilj.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "鲨鱼资源",
+      "url": "https:\/\/shayuapi.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "滴滴资源",
+      "url": "https:\/\/api.ddapi.cc\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "黑料资源",
+      "url": "https:\/\/www.heiliaozyapi.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "桃花资源",
+      "url": "https:\/\/thzy1.me\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "精品资源",
+      "url": "https:\/\/www.jingpinx.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "搜AV资源",
+      "url": "https:\/\/api.souavzyw.net\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    },
+    {
+      "name": "杏吧资源",
+      "url": "https:\/\/xingba222.com\/api.php\/provide\/vod",
+      "type": "vod",
+      "enabled": true
+    }
+  ]
+}
